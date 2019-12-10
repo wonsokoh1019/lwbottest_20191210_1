@@ -9,7 +9,7 @@ DEFAULT_LANG = 'ja'
 TZone = "Asia/Tokyo"
 
 # account
-ADMIN_ACCOUNT = "mintwinsr@lwbottest.com"
+ADMIN_ACCOUNT = "admin@lwbottest"
 DOMAIN_ID = 153856
 
 # api
